@@ -1,0 +1,22 @@
+{
+    "yotako":
+    {
+        "description": "HTML/CSS from design, with Flex support.",
+        "name": "yotako-html-flex",
+        "version": "^1.0.0",
+        "yotako-version": "^1.0.0",
+        "author": "yotako - hello@yotako.io",
+        "license": "GPL-3.0",
+        "technologies": ["swift"]
+    },
+    "stack":
+    {
+        "swift":
+        {
+            "_meta":
+            {
+                "_path": "./App"
+            }
+        }
+    }
+}
